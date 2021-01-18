@@ -13,3 +13,5 @@ Derlemek için Visual Studio Community 2019 ve C++17 standardı kullanılmışt�
 "src" dizini içindeki tum ".h" vs ".cpp" dosyalarının projeye dahil olmasına dikkat edin.
 
 Derlenmiş 32-bit dosya: "162106102004_MertUysal_Genel".
+
+[Not: Visual Studio projesinden boyutunu kucultmek icin bazi dosyalar silinmistir. Ilk acilista hata verse de sorunsuz derlemektedir.]
